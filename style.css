@@ -1,0 +1,60 @@
+#one{
+    background-color: rgb(15, 67, 95);
+
+}
+#four{
+    font-family: sans-serif;
+    font-size: 40px;
+}
+.one{
+    margin-top: 20%;
+    padding-left: 7%;
+    color: whitesmoke;
+}
+.two{
+    color: rgb(255, 255, 255);
+}
+#two{
+    background-color: rgb(245, 235, 235);
+    text-align: center;
+
+}
+#five{
+    margin-left: 7%;
+}
+#six{
+
+    color: white;  
+}
+.three{
+    color: whitesmoke;
+    padding-left: 7%;
+}
+#seven{
+    color: whitesmoke;
+    padding-left: 22px;
+}
+.eight{
+    font-size: 20px;
+    padding-left: 5%;
+    font-weight: bold;
+}
+.nine{
+    background-color: white;
+}
+.ten{
+    padding-left: 5%;
+    font-family: sans-serif;
+}
+body{
+    background-color: rgb(221, 215, 215);
+}
+a#link1{
+    color: whitesmoke;
+    padding-left: 5px;
+    text-decoration: none;
+}
+.four{
+    color: whitesmoke;
+    padding-left: 15px;
+}
